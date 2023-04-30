@@ -8,7 +8,7 @@ This is a temporary script file.
 import streamlit as st
 
  
-st.write("Eric Hello ,let's learn how to build a streamlit app together")
+st.write("Leslie is gay Hello ,let's learn how to build a streamlit app together")
 
 st.title ("Eric this is the app title")
 st.header("Eric this is the markdown")
